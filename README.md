@@ -1,26 +1,43 @@
 # IB1 Remaster
 
-**Infinity Blade (2010), rebuilt to run properly on a 2026 iPhone: full screen, HD, 60 fps, with its original bugs fixed.**
+**Infinity Blade (2010), rebuilt for a 2026 iPhone and iPad: full screen, HD, 60 fps, with its original bugs fixed and its lost content restored.**
 
 Infinity Blade set the standard for what a phone game could look like when it came out in December 2010. Fifteen years later, the original no longer works on a current iPhone. There are no sword sounds or voices, the picture doesn't fill the screen, and half the controls sit off the edge.
 
-IB1 Remaster starts from the original game (version 1.4.3 with the fan Community Patch 2.5) and leaves its data files untouched. Every change is made by a small add-on that loads with the game. The result is the game as Chair Entertainment made it, running in full on an iPhone 17, sharper than it has ever looked on a phone, and without bugs that had been there since 2010.
+IB1 Remaster starts from the original game (version 1.4.3 with the fan Community Patch 2.5) and leaves its data files untouched. Every change is made by a small add-on that loads with the game. The result is the game as Chair Entertainment made it, running in full on a modern iPhone and iPad, sharper than it has ever looked, without bugs that had been there since 2010, and with content the developers finished but never switched on.
 
 | | |
 |---|---|
-| **Release** | 1.0 (build 17, 24 October 2026) |
-| **Tested on** | iPhone 17, iOS 27.0.1 |
+| **Final release** | 2.0 (26 October 2026) |
+| **Runs on** | iPhone and iPad, full screen |
+| **Tested on** | iPhone 17 (iOS 27.0.1) and iPad Air |
 | **Base game** | Infinity Blade 1.4.3 + Community Patch 2.5 (data files unchanged) |
-| **Resolution** | 2622 × 1206 (the screen's native resolution), 60 fps |
+| **Frame rate** | 60 fps |
 | **App size** | About 3.1 GB installed |
+
+---
+
+## Install
+
+Download the IPA from the latest release and sideload it with **Impactor**, the tool recommended on the Infinity Blade Discord. The same file works on iPhone and iPad.
 
 ---
 
 ## What's new
 
+### Lost content, found
+Chair finished all of this and never switched it on. It's in the game now, exactly where they meant it to be.
+- **Five new lessons.** *Mega Hit* and *Ultra Hit* teach the four- and five-swipe combos the game never explained. *Stab* shows you how to strike an enemy's weak spots. *Info2* gives you a labelled tour of the fight screen. *Menu* tells you when you have enough gold (400) to go shopping. Each one appears in your first bloodline, at the moment the developers' own notes said it should.
+- **A secret at the bridge.** Stand on the bridge and look up. High on the great tower, a glowing circle is waiting. Tap it for a cinematic shot rising slowly up the tower to the God King's window, where he's watching you. It appears once per bloodline, so keep your eyes open.
+- **The first Deathless King gets his moment.** Fall to the Faun and you'll now see his finishing blow land, your knight go down and the screen fade to black before the next bloodline begins, as the developers wired it.
+- **A way back from the dungeon.** A "Back to Gate" circle at the dungeon's first save points takes you straight back to the castle gate.
+- **COPY on Character Slots.** Copy your current character into any other slot (the game asks first), so you can try something risky and keep a safe copy.
+
 ### Looks
-- **Full screen at full sharpness.** Drawn at the iPhone 17's native resolution, edge to edge, with no letterboxing or stretching.
+- **Full screen at full sharpness.** Drawn at the device's native resolution, edge to edge, with no letterboxing or stretching, on iPhone and iPad.
+- **HD lighting across the whole castle.** The original stored light and shadow at 2 bits per pixel, which left green and purple blotches on the stone, speckled edges and smeared outlines. All 161 light maps are cleaned up, keeping the original's mood, with the PC version's finer detail added wherever it matches.
 - **HD textures for the whole game.** About 680 textures replaced with clean versions up to 4096 × 4096. These come from the fan-made HD texture pack where it covers them, and from the PC version's originals elsewhere. Each one is colour-matched to the iPhone original so the look stays the same.
+- **HD effects.** Fire, lightning, smoke, glows, the sword slash and the God King's sky are all in HD. Many are rebuilt from the original PC artwork.
 - **Your own gear in HD.** The game builds the knight's swords, shields, armour and helmets into one combined texture while it runs. That texture is now rebuilt from HD pieces.
 - **HD item icons.** All 115 shop and inventory icons enlarged 4×. The 54 weapon icons were redrawn from each weapon's own 3D model and coloured to match the originals.
 - **HD menu lettering** in every language the game supports.
@@ -34,16 +51,25 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 
 ### Sound and music
 - **Sword sounds, voices and effects are back.** On iOS 26 and later, the original plays only music.
-- **New volume sliders** for Master, Music and Voice, alongside the original SFX slider.
+- **Play your own music.** The developers added this in 2011, and it works properly again. Start your music, open the game and it keeps playing, with the game's sound effects mixed in underneath. Pause or play from Control Centre, the lock screen or your headphones, and the game switches over instantly: its own music steps aside when yours starts and comes back when yours stops.
+- **New volume sliders** for Master, Music and Voice, alongside the original SFX slider, plus **Game Sound (My Music)**, which sets how loud the clashes and voices are while your own music plays.
 - **Speech you can hear.** Music dips while characters speak, and their lines are slightly louder. The God King's offer was nearly drowned out before.
 - **Fight music follows the fight.** Stage changes play the right track, and the tracks stay in step.
 - **Music when you resume a saved game**, and "fade out" moments are silent, as intended.
 - **No dropped sounds in busy moments.** The sound engine now has 64 voices instead of 32.
 
+### Now on iPad
+- **Full screen on iPad**, the same game as on iPhone, at the iPad's full sharpness and 60 frames per second.
+- **The opening film and Start button are back.** The original mistook modern iPads for the 2010 model and skipped both.
+- **Everything else carries over:** the same HD graphics and effects, subtitles at the same size, and health numbers sized to sit comfortably at the iPad's edges.
+
 ### Controls and screen
+- **Hide The HUD.** A clean screen during play. Your buttons still work while it's hidden.
+- **Hide Combat Text.** Removes the pop-up words and damage numbers. Both options are in Options, under Invert Look Axis.
 - **Redesigned dodge buttons.** The dark square panel is gone. The arrows are now deep black with a soft white glow, matching the health bar, and they light up in the game's blue when pressed. They're drawn at their true shape and at twice the detail.
 - **Block button size slider**, under the game's own Dodge Button Size setting. It goes from the original size up to 1.5×, and the shield, its number and its touch area all grow together.
 - **Controls and health bars clear of the Dynamic Island** and the rounded corners.
+- **Accurate taps on glowing circles.** Every glowing circle takes your tap exactly where it's drawn, at save points and in fights.
 - **Fast-forward only while held.** It can no longer get stuck and race through later cutscenes.
 - **The skip button works wherever you tap it**, including its bottom half at the screen's edge.
 - **Swiping home no longer swings the camera.**
@@ -53,6 +79,7 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 - **Every menu and screen fills the display**, with no black or bright strips at the sides.
 - **Saves appear in the Files app** (On My iPhone → Infinity Blade), so you can back them up without a computer.
 - **The broken gold store is switched off.** It used to hang forever on "Connecting to iTunes". The shop now behaves as designed for builds without a store: BUY only lights up when you can afford something, and spending gold you don't have tells you how much more you need.
+- **No more "NEW! CONTENT PACK" pop-ups** one after another when you start the game on a new device.
 - **The end screen shows its Infinity Blade logo again.**
 
 ---
@@ -62,6 +89,8 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 ### From the original 2010 game
 These were in the game as released, not caused by modern iPhones.
 - Cutscenes losing their sounds and effects in long sessions: footsteps, shouts, screams and the God King's blue flames vanished the longer you played, until a restart.
+- Spells misreading your drawing: a heal drawn with sharp corners cast poison, and four other rings had the same problem.
+- The Faun cutting himself off mid-word. His intro plays sped up, and each line used to start before the last one finished.
 - Fight music jumping back to the first stage's track when a fight moved on quickly, so the second stage's music was never heard.
 - No stage music changes in the Guardian fight, which opens every bloodline.
 - Silence after resuming a save. Only 3 of the castle's 37 save points restarted the music.
@@ -75,10 +104,12 @@ These were in the game as released, not caused by modern iPhones.
 - The sun's flare shining through characters and walls (the iPhone version never had the PC version's check).
 - Judder in the opening film, where every fifth frame of movement was doubled by the original 2010 conversion.
 
-### From running a 2010 game on a 2026 iPhone
+### From running a 2010 game on a modern iPhone and iPad
 - No sound effects or voices, only music (iOS 26 and later).
 - No music on first launch.
+- Your own music stopping when the game starts or when you come back to it.
 - A letterboxed picture instead of full screen.
+- No opening film or Start button on modern iPads, which the original mistook for the 2010 model.
 - Health bars and the block, dodge and fast-forward buttons off-screen once the picture filled the display.
 - Bright strips and black sides on the results screen, tutorials, Options and Character Slots.
 - Touch circles drawn beside enemies instead of on them.
@@ -157,11 +188,12 @@ These were in the game as released, not caused by modern iPhones.
 | Area | Detail |
 |---|---|
 | Base game | Infinity Blade 1.4.3 + Community Patch 2.5 (data files unchanged) |
-| Device | iPhone 17, iOS 27.0.1 |
-| Resolution | 2622 × 1206 (native), 60 fps |
-| Textures | About 680 in HD, up to 4096 × 4096 |
+| Devices | iPhone 17 (iOS 27.0.1) and iPad Air |
+| Resolution | The device's native resolution (2622 × 1206 on iPhone 17), 60 fps |
+| Textures | About 680 in HD, up to 4096 × 4096, plus HD effects |
+| Lighting | All 161 light maps rebuilt in HD |
 | Graphics | 4× anti-aliasing, 16× anisotropic filtering, full-size mip levels, bloom, contrast curve, sharpening, bump and shine maps |
-| Sound | 64 mixer voices (was 32); Master, Music, SFX and Voice sliders |
+| Sound | 64 mixer voices (was 32); Master, Music, SFX, Voice and Game Sound (My Music) sliders; plays alongside your own music |
 | App size | About 3.1 GB |
 
 ---
@@ -187,13 +219,11 @@ These were in the game as released, not caused by modern iPhones.
 | 15 | 24 Oct | An experimental effects "safety net" switched off |
 | 16 | 24 Oct | HD textures for the whole game, HD gear, HD icons |
 | **17** | **24 Oct** | **Fast-forward only while held — released as 1.0** |
-| 18 | testing | Every cutscene keeps its sounds and effects, however long you play |
+| 18 | – | Every cutscene keeps its sounds and effects, however long you play |
+| **19** | **25 Oct** | **Hide The HUD and Hide Combat Text options, HD effects, spells read your drawing correctly — released as 1.1** |
+| **Final** | **26 Oct** | **Lost content restored, HD lighting, play your own music, iPad support, accurate circle taps, the Faun's intro, no content-pack pop-ups — released as 2.0** |
 
 ---
-
-## Still to come
-- **Build 18:** every cutscene keeps its sounds and effects however long you play (in testing).
-- **iPad version** (iPad Air), with saves shared between iPhone and iPad through iCloud.
 
 ## Documentation
 - **FIXES.md** records every problem, its cause and the exact fix, with enough detail to redo the whole project from the original download.
