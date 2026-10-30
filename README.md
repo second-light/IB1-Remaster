@@ -185,6 +185,7 @@ These were in the game as released, not caused by modern iPhones.
 - The end screen's missing logo.
 - The sun's flare shining through characters and walls (the iPhone version never had the PC version's check).
 - Judder in the opening film, where every fifth frame of movement was doubled by the original 2010 conversion.
+- The Infinity Blade not fitting the dais in the dungeon: it stuck out of the top and bottom of its slot, and went into the floor as the panel lowered. This was still in the game at Epic's last update.
 
 ### From running a 2010 game on a modern iPhone and iPad
 - No sound effects or voices, only music (iOS 26 and later).
@@ -271,6 +272,16 @@ These were in the game as released, not caused by modern iPhones.
 **Fixed:** Every music request now finds its file regardless of capitalisation.
 </details>
 
+<details>
+<summary><b>7. The Infinity Blade that didn't fit</b></summary>
+
+**Found:** When the knight sets the Infinity Blade into the pillar in the dungeon, it stuck out of the top and bottom of its slot, and its tip went into the floor as the panel lowered. The bug was still there in Epic's last update.
+
+**Tracked down:** Chair made the slot in the pillar's front panel exactly the blade's length, then placed that panel in the level at three-quarters size. The knight's animation was made for the smaller panel, but the blade is full size. So the blade overhung the slot by about 15 cm at each end, and once the panel lowered, its tip went 11 cm into the floor.
+
+**Fixed:** While the knight sets the blade in the pillar, the blade is drawn at three-quarters of its size, giving the same snug fit as Chair's full-size slot and blade. The camera cuts at the exact moments that animation starts and stops, so you never see the blade change size. Nothing else in the game is affected, and the blade is back to full size as soon as the scene moves on.
+</details>
+
 ---
 
 ## Under the hood
@@ -318,7 +329,7 @@ Every test build, and which ones became releases.
 | 18 | 25 Oct | Every cutscene keeps its sounds and effects, however long you play |
 | **19** | **25 Oct** | **Hide The HUD and Hide Combat Text options, HD effects, spells read your drawing correctly — released as 1.1** |
 | **20** | **26 Oct** | **Lost content restored, HD lighting, play your own music, iPad support, accurate circle taps, the Faun's intro, no content-pack pop-ups — released as 1.2** |
-| **21** | **30 Oct** | **Haptics, smooth skipping through dialogue, Turn Off Tutorials option, back-to-gate and well fixes — released as 1.3** |
+| **21** | **30 Oct** | **Haptics, smooth skipping through dialogue, Turn Off Tutorials option, back-to-gate and well fixes, the Infinity Blade fits the dais — released as 1.3** |
 
 </details>
 
