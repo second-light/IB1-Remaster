@@ -1,6 +1,30 @@
+<div align="center">
+
 # IB1 Remaster
 
 **Infinity Blade (2010), rebuilt for a 2026 iPhone and iPad: full screen, HD, 60 fps, with its original bugs fixed and its lost content restored.**
+
+[![Latest release](https://img.shields.io/badge/latest_release-1.2-2f81f7?style=for-the-badge)](https://github.com/finbuildssystems/IB1-Remaster/releases/latest)
+![Platforms](https://img.shields.io/badge/iPhone_%7C_iPad-iOS_26%2B-555?style=for-the-badge&logo=apple)
+![60 fps](https://img.shields.io/badge/60_fps-HD-555?style=for-the-badge)
+
+**[⬇ Download the latest release](https://github.com/finbuildssystems/IB1-Remaster/releases/latest)** · [All releases](https://github.com/finbuildssystems/IB1-Remaster/releases) · [Install](#install) · [What's new](#whats-new) · [Bugs fixed](#bugs-fixed)
+
+</div>
+
+---
+
+## Releases
+
+| Version | Date | Highlights |
+|---|---|---|
+| **[1.2](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v2.0)** | 26 Oct 2026 | The biggest update yet: lost 2010 content switched on, HD lighting across the castle, play your own music, and the game on iPad |
+| **[1.1](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.1)** | 25 Oct 2026 | Hide The HUD and Hide Combat Text options, every effect in HD, and spells that read your drawing correctly |
+| **[1.0](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.0)** | 25 Oct 2026 | First release: sound restored, full screen at native resolution, HD textures, PC-style graphics and 20+ bug fixes |
+
+---
+
+## About
 
 Infinity Blade set the standard for what a phone game could look like when it came out in December 2010. Fifteen years later, the original no longer works on a current iPhone. There are no sword sounds or voices, the picture doesn't fill the screen, and half the controls sit off the edge.
 
@@ -8,7 +32,7 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 
 | | |
 |---|---|
-| **Final release** | 2.0 (26 October 2026) |
+| **Latest release** | [1.2](https://github.com/finbuildssystems/IB1-Remaster/releases/latest) (26 October 2026) |
 | **Runs on** | iPhone and iPad, full screen |
 | **Tested on** | iPhone 17 (iOS 27.0.1) and iPad Air |
 | **Base game** | Infinity Blade 1.4.3 + Community Patch 2.5 (data files unchanged) |
@@ -19,7 +43,7 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 
 ## Install
 
-Download the IPA from the latest release and sideload it with **Impactor**, the tool recommended on the Infinity Blade Discord. The same file works on iPhone and iPad.
+Download the IPA from the [latest release](https://github.com/finbuildssystems/IB1-Remaster/releases/latest) and sideload it with **Impactor**, the tool recommended on the Infinity Blade Discord. The same file works on iPhone and iPad.
 
 ---
 
@@ -198,7 +222,12 @@ These were in the game as released, not caused by modern iPhones.
 
 ---
 
-## Version history
+## Build history
+
+Every test build, and which ones became releases.
+
+<details>
+<summary><b>Show all builds</b></summary>
 
 | Build | Date | What came in |
 |---|---|---|
@@ -221,7 +250,9 @@ These were in the game as released, not caused by modern iPhones.
 | **17** | **24 Oct** | **Fast-forward only while held — released as 1.0** |
 | 18 | – | Every cutscene keeps its sounds and effects, however long you play |
 | **19** | **25 Oct** | **Hide The HUD and Hide Combat Text options, HD effects, spells read your drawing correctly — released as 1.1** |
-| **Final** | **26 Oct** | **Lost content restored, HD lighting, play your own music, iPad support, accurate circle taps, the Faun's intro, no content-pack pop-ups — released as 2.0** |
+| **–** | **26 Oct** | **Lost content restored, HD lighting, play your own music, iPad support, accurate circle taps, the Faun's intro, no content-pack pop-ups — released as 1.2** |
+
+</details>
 
 ---
 
