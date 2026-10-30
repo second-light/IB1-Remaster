@@ -38,6 +38,7 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 | **Tested on** | iPhone 17 (iOS 27.0.1) and iPad Air |
 | **Base game** | Infinity Blade 1.4.3 + Community Patch 2.5 (data files unchanged) |
 | **Frame rate** | 60 fps |
+| **Download size** | About 2 GB |
 | **App size** | About 3.1 GB installed |
 
 ---
