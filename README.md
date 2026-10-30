@@ -4,11 +4,11 @@
 
 **Infinity Blade (2010), rebuilt for a 2026 iPhone and iPad: full screen, HD, 60 fps, with its original bugs fixed and its lost content restored.**
 
-[![Latest release](https://img.shields.io/badge/latest_release-1.3-2f81f7?style=for-the-badge)](https://github.com/finbuildssystems/IB1-Remaster/releases/latest)
+[![Latest release](https://img.shields.io/badge/latest_release-1.3-2f81f7?style=for-the-badge)](https://github.com/second-light/IB1-Remaster/releases/latest)
 ![Platforms](https://img.shields.io/badge/iPhone_%7C_iPad-iOS_26%2B-555?style=for-the-badge&logo=apple)
 ![60 fps](https://img.shields.io/badge/60_fps-HD-555?style=for-the-badge)
 
-**[⬇ Download the latest release](https://github.com/finbuildssystems/IB1-Remaster/releases/latest)** · [All releases](https://github.com/finbuildssystems/IB1-Remaster/releases) · [Install](#install) · [What's new](#whats-new) · [Bugs fixed](#bugs-fixed)
+**[⬇ Download the latest release](https://github.com/second-light/IB1-Remaster/releases/latest)** · [All releases](https://github.com/second-light/IB1-Remaster/releases) · [Install](#install) · [What's new](#whats-new) · [Bugs fixed](#bugs-fixed)
 
 <br>
 
@@ -22,10 +22,10 @@
 
 | Version | Date | Highlights |
 |---|---|---|
-| **[1.3](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.3)** | 30 Oct 2026 | Feel every blow: haptics on iPhone, smooth skipping through dialogue, a Turn Off Tutorials option, and the way back to the gate fixed |
-| **[1.2](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.2)** | 26 Oct 2026 | The biggest update yet: lost 2010 content switched on, HD lighting across the castle, play your own music, and the game on iPad |
-| **[1.1](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.1)** | 25 Oct 2026 | Hide The HUD and Hide Combat Text options, every effect in HD, and spells that read your drawing correctly |
-| **[1.0](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.0)** | 25 Oct 2026 | First release: sound restored, full screen at native resolution, HD textures, PC-style graphics and 20+ bug fixes |
+| **[1.3](https://github.com/second-light/IB1-Remaster/releases/tag/v1.3)** | 30 Oct 2026 | Feel every blow: haptics on iPhone, smooth skipping through dialogue, a Turn Off Tutorials option, and the way back to the gate fixed |
+| **[1.2](https://github.com/second-light/IB1-Remaster/releases/tag/v1.2)** | 26 Oct 2026 | The biggest update yet: lost 2010 content switched on, HD lighting across the castle, play your own music, and the game on iPad |
+| **[1.1](https://github.com/second-light/IB1-Remaster/releases/tag/v1.1)** | 25 Oct 2026 | Hide The HUD and Hide Combat Text options, every effect in HD, and spells that read your drawing correctly |
+| **[1.0](https://github.com/second-light/IB1-Remaster/releases/tag/v1.0)** | 25 Oct 2026 | First release: sound restored, full screen at native resolution, HD textures, PC-style graphics and 20+ bug fixes |
 
 ---
 
@@ -79,7 +79,7 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 
 | | |
 |---|---|
-| **Latest release** | [1.3](https://github.com/finbuildssystems/IB1-Remaster/releases/latest) (30 October 2026) |
+| **Latest release** | [1.3](https://github.com/second-light/IB1-Remaster/releases/latest) (30 October 2026) |
 | **Runs on** | iPhone and iPad, full screen |
 | **Tested on** | iPhone 17 (iOS 27.0.1) and iPad Air |
 | **Base game** | Infinity Blade 1.4.3 + Community Patch 2.5 (data files unchanged) |
@@ -91,7 +91,7 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 
 ## Install
 
-Download the IPA from the [latest release](https://github.com/finbuildssystems/IB1-Remaster/releases/latest) and sideload it with **[Impactor](https://github.com/claration/impactor)**, the tool recommended on the Infinity Blade Discord. The same file works on iPhone and iPad.
+Download the IPA from the [latest release](https://github.com/second-light/IB1-Remaster/releases/latest) and sideload it with **[Impactor](https://github.com/claration/impactor)**, the tool recommended on the Infinity Blade Discord. The same file works on iPhone and iPad.
 
 ---
 
