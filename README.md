@@ -278,11 +278,6 @@ Every test build, and which ones became releases.
 
 ---
 
-## Documentation
-- **FIXES.md** records every problem, its cause and the exact fix, with enough detail to redo the whole project from the original download.
-- **GAME-MAP.md** and its study files explain how the whole game works: levels, fights, music, menus, saves and the iPhone side.
-- Every music track, sorted by fight and named by when it plays, with a guide and side-by-side comparison clips.
-
 ## Credits
 Infinity Blade by **Chair Entertainment** and **Epic Games**. Built on the fan **Community Patch 2.5** and the fan-made **HD texture pack**, plus the PC version's original textures. Restoration work by Second Light.
 
