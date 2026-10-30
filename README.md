@@ -269,10 +269,10 @@ Every test build, and which ones became releases.
 | 15 | 24 Oct | An experimental effects "safety net" switched off |
 | 16 | 24 Oct | HD textures for the whole game, HD gear, HD icons |
 | **17** | **24 Oct** | **Fast-forward only while held — released as 1.0** |
-| 18 | – | Every cutscene keeps its sounds and effects, however long you play |
+| 18 | 25 Oct | Every cutscene keeps its sounds and effects, however long you play |
 | **19** | **25 Oct** | **Hide The HUD and Hide Combat Text options, HD effects, spells read your drawing correctly — released as 1.1** |
-| **–** | **26 Oct** | **Lost content restored, HD lighting, play your own music, iPad support, accurate circle taps, the Faun's intro, no content-pack pop-ups — released as 1.2** |
-| **–** | **30 Oct** | **Haptics, smooth skipping through dialogue, Turn Off Tutorials option, back-to-gate and well fixes — released as 1.3** |
+| **20** | **26 Oct** | **Lost content restored, HD lighting, play your own music, iPad support, accurate circle taps, the Faun's intro, no content-pack pop-ups — released as 1.2** |
+| **21** | **30 Oct** | **Haptics, smooth skipping through dialogue, Turn Off Tutorials option, back-to-gate and well fixes — released as 1.3** |
 
 </details>
 
