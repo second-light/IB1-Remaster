@@ -10,6 +10,10 @@
 
 **[⬇ Download the latest release](https://github.com/finbuildssystems/IB1-Remaster/releases/latest)** · [All releases](https://github.com/finbuildssystems/IB1-Remaster/releases) · [Install](#install) · [What's new](#whats-new) · [Bugs fixed](#bugs-fixed)
 
+<br>
+
+<img src="screenshots/hero-courtyard-flare.jpg" alt="The knight facing a giant in a sunlit courtyard, with the sun's lens flare" width="100%">
+
 </div>
 
 ---
@@ -22,6 +26,46 @@
 | **[1.2](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.2)** | 26 Oct 2026 | The biggest update yet: lost 2010 content switched on, HD lighting across the castle, play your own music, and the game on iPad |
 | **[1.1](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.1)** | 25 Oct 2026 | Hide The HUD and Hide Combat Text options, every effect in HD, and spells that read your drawing correctly |
 | **[1.0](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.0)** | 25 Oct 2026 | First release: sound restored, full screen at native resolution, HD textures, PC-style graphics and 20+ bug fixes |
+
+---
+
+## Screenshots
+
+All taken on an iPhone 17 at its native resolution (2622 × 1206), most with **Hide The HUD** switched on.
+
+<table>
+<tr>
+<td width="50%"><img src="screenshots/title-screen.jpg" alt="Title screen"><br><sub>The title screen</sub></td>
+<td width="50%"><img src="screenshots/castle-gate.jpg" alt="The castle gate"><br><sub>The castle gate, with HD lighting</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/faun-fight.jpg" alt="Facing the Faun"><br><sub>Facing the Faun</sub></td>
+<td><img src="screenshots/golem-fight.jpg" alt="A golden golem"><br><sub>A golden golem, with the HUD on</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/knight-armour.jpg" alt="The knight's armour in HD"><br><sub>Your own gear, rebuilt in HD</sub></td>
+<td><img src="screenshots/throne-room.jpg" alt="The God King's throne room"><br><sub>The God King's throne room</sub></td>
+</tr>
+<tr>
+<td><img src="screenshots/bridge.jpg" alt="The bridge"><br><sub>The bridge, home of the restored secret</sub></td>
+<td><img src="screenshots/dungeon-door.jpg" alt="The dungeon door"><br><sub>The dungeon, lit by torchlight</sub></td>
+</tr>
+</table>
+
+### On iPad
+
+<img src="screenshots/ipad-throne-room.jpg" alt="The throne room on iPad" width="100%">
+<sub>The throne room on iPad, full screen at 60 fps</sub>
+
+### New options
+
+<table>
+<tr>
+<td width="33%"><img src="screenshots/options-sound.jpg" alt="Sound options"><br><sub>Sound, including Game Sound (My Music)</sub></td>
+<td width="33%"><img src="screenshots/options-controls.jpg" alt="Control options"><br><sub>Block Button Size and Hide The HUD</sub></td>
+<td width="33%"><img src="screenshots/options-new.jpg" alt="New options"><br><sub>Hide Combat Text, Turn Off Tutorials and Haptics</sub></td>
+</tr>
+</table>
 
 ---
 
