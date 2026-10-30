@@ -54,8 +54,10 @@ All taken on an iPhone 17 at its native resolution (2622 × 1206), most with **H
 
 ### On iPad
 
-<img src="screenshots/ipad-throne-room.jpg" alt="The throne room on iPad" width="100%">
+<p align="center">
+<img src="screenshots/ipad-throne-room.jpg" alt="The throne room on iPad" width="70%"><br>
 <sub>The throne room on iPad, full screen at 60 fps</sub>
+</p>
 
 ### New options
 
