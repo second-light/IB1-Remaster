@@ -4,7 +4,7 @@
 
 **Infinity Blade (2010), rebuilt for a 2026 iPhone and iPad: full screen, HD, 60 fps, with its original bugs fixed and its lost content restored.**
 
-[![Latest release](https://img.shields.io/badge/latest_release-1.2-2f81f7?style=for-the-badge)](https://github.com/finbuildssystems/IB1-Remaster/releases/latest)
+[![Latest release](https://img.shields.io/badge/latest_release-1.3-2f81f7?style=for-the-badge)](https://github.com/finbuildssystems/IB1-Remaster/releases/latest)
 ![Platforms](https://img.shields.io/badge/iPhone_%7C_iPad-iOS_26%2B-555?style=for-the-badge&logo=apple)
 ![60 fps](https://img.shields.io/badge/60_fps-HD-555?style=for-the-badge)
 
@@ -18,7 +18,8 @@
 
 | Version | Date | Highlights |
 |---|---|---|
-| **[1.2](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v2.0)** | 26 Oct 2026 | The biggest update yet: lost 2010 content switched on, HD lighting across the castle, play your own music, and the game on iPad |
+| **[1.3](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.3)** | 30 Oct 2026 | Feel every blow: haptics on iPhone, smooth skipping through dialogue, a Turn Off Tutorials option, and the way back to the gate fixed |
+| **[1.2](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.2)** | 26 Oct 2026 | The biggest update yet: lost 2010 content switched on, HD lighting across the castle, play your own music, and the game on iPad |
 | **[1.1](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.1)** | 25 Oct 2026 | Hide The HUD and Hide Combat Text options, every effect in HD, and spells that read your drawing correctly |
 | **[1.0](https://github.com/finbuildssystems/IB1-Remaster/releases/tag/v1.0)** | 25 Oct 2026 | First release: sound restored, full screen at native resolution, HD textures, PC-style graphics and 20+ bug fixes |
 
@@ -32,7 +33,7 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 
 | | |
 |---|---|
-| **Latest release** | [1.2](https://github.com/finbuildssystems/IB1-Remaster/releases/latest) (26 October 2026) |
+| **Latest release** | [1.3](https://github.com/finbuildssystems/IB1-Remaster/releases/latest) (30 October 2026) |
 | **Runs on** | iPhone and iPad, full screen |
 | **Tested on** | iPhone 17 (iOS 27.0.1) and iPad Air |
 | **Base game** | Infinity Blade 1.4.3 + Community Patch 2.5 (data files unchanged) |
@@ -82,6 +83,14 @@ Chair finished all of this and never switched it on. It's in the game now, exact
 - **Music when you resume a saved game**, and "fade out" moments are silent, as intended.
 - **No dropped sounds in busy moments.** The sound engine now has 64 voices instead of 32.
 
+### Haptics
+- **Feel the fight in your hand.** A good block, every hit you take (including a mistimed dodge) and a shield bash land with a solid thump.
+- **The big moments shake the phone.** The giant bosses' slams, stomps and ground-shaking blows, and the Golems' blasts, come through as a deep, rolling rumble.
+- **Finish a boss and feel it twice:** once as your sword goes in, and again as he hits the ground.
+- **The God King hits hardest of all.** You feel his body slam when he makes his offer, the blow that throws you across the room in his last stage, and the crash as he lands.
+- **Only the big moments.** Your own swings, parries, dodges, misses and spells stay quiet.
+- **On by default.** Untick **Haptics** in Options to turn it off. iPhone only, since the iPad has no vibration motor.
+
 ### Now on iPad
 - **Full screen on iPad**, the same game as on iPhone, at the iPad's full sharpness and 60 frames per second.
 - **The opening film and Start button are back.** The original mistook modern iPads for the 2010 model and skipped both.
@@ -90,6 +99,8 @@ Chair finished all of this and never switched it on. It's in the game now, exact
 ### Controls and screen
 - **Hide The HUD.** A clean screen during play. Your buttons still work while it's hidden.
 - **Hide Combat Text.** Removes the pop-up words and damage numbers. Both options are in Options, under Invert Look Axis.
+- **Turn Off Tutorials.** Chair built this switch and never put it in the menu. Tick it in Options and the lesson pages stop appearing, including the ones in the first bloodline's fights. It's saved with each character.
+- **Smooth skipping through dialogue.** Hold skip while someone is talking and their line stops cleanly, with other sounds turned down while you hold. Let go, and the scene carries on from the right word, with only that line's subtitle on screen.
 - **Redesigned dodge buttons.** The dark square panel is gone. The arrows are now deep black with a soft white glow, matching the health bar, and they light up in the game's blue when pressed. They're drawn at their true shape and at twice the detail.
 - **Block button size slider**, under the game's own Dodge Button Size setting. It goes from the original size up to 1.5×, and the shield, its number and its touch area all grow together.
 - **Controls and health bars clear of the Dynamic Island** and the rounded corners.
@@ -140,6 +151,14 @@ These were in the game as released, not caused by modern iPhones.
 - Sound cutting out after a half swipe up, Control Centre or a call banner, and effects going permanently silent after a pause.
 - The picture rendered below the screen's native sharpness.
 - The skip button only responding when tapped above its middle.
+
+### Other fixes
+- Voices piling on top of each other when skipping through dialogue, and lines restarting from the beginning after the scene had moved on.
+- Going back to the gate bringing back a chest you'd already opened. Tapping its circle again froze the game.
+- Going back down the well after beating the boss in the cell leaving you stuck with no enemy and no circles. The scene after his fight now plays, and the next fight at the door is ready, as Chair intended.
+- The knight flashing dark blue for a moment after a scene moved him somewhere new. He's now lit for where he stands.
+- The knight facing the wrong way for a moment when you tap Start.
+- A safety net borrowed from Infinity Blade II, which runs on the same engine: if a waiting boss ever freezes like a statue during his idle animation, he keeps moving.
 
 ---
 
@@ -218,6 +237,7 @@ These were in the game as released, not caused by modern iPhones.
 | Lighting | All 161 light maps rebuilt in HD |
 | Graphics | 4× anti-aliasing, 16× anisotropic filtering, full-size mip levels, bloom, contrast curve, sharpening, bump and shine maps |
 | Sound | 64 mixer voices (was 32); Master, Music, SFX, Voice and Game Sound (My Music) sliders; plays alongside your own music |
+| Haptics | Blocks, hits, boss slams and the God King's blows (iPhone); can be switched off in Options |
 | App size | About 3.1 GB |
 
 ---
@@ -251,6 +271,7 @@ Every test build, and which ones became releases.
 | 18 | – | Every cutscene keeps its sounds and effects, however long you play |
 | **19** | **25 Oct** | **Hide The HUD and Hide Combat Text options, HD effects, spells read your drawing correctly — released as 1.1** |
 | **–** | **26 Oct** | **Lost content restored, HD lighting, play your own music, iPad support, accurate circle taps, the Faun's intro, no content-pack pop-ups — released as 1.2** |
+| **–** | **30 Oct** | **Haptics, smooth skipping through dialogue, Turn Off Tutorials option, back-to-gate and well fixes — released as 1.3** |
 
 </details>
 
