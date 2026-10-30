@@ -91,7 +91,7 @@ IB1 Remaster starts from the original game (version 1.4.3 with the fan Community
 
 ## Install
 
-Download the IPA from the [latest release](https://github.com/finbuildssystems/IB1-Remaster/releases/latest) and sideload it with **Impactor**, the tool recommended on the Infinity Blade Discord. The same file works on iPhone and iPad.
+Download the IPA from the [latest release](https://github.com/finbuildssystems/IB1-Remaster/releases/latest) and sideload it with **[Impactor](https://github.com/claration/impactor)**, the tool recommended on the Infinity Blade Discord. The same file works on iPhone and iPad.
 
 ---
 
