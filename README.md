@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="screenshots/hero-courtyard-flare.jpg" alt="The knight facing a giant in a sunlit courtyard, with the sun's lens flare" width="100%">
+<img src="screenshots/title-screen.jpg" alt="The Infinity Blade title screen" width="100%">
 
 </div>
 
@@ -35,7 +35,7 @@ All taken on an iPhone 17 at its native resolution (2622 × 1206), most with **H
 
 <table>
 <tr>
-<td width="50%"><img src="screenshots/title-screen.jpg" alt="Title screen"><br><sub>The title screen</sub></td>
+<td width="50%"><img src="screenshots/courtyard-flare.jpg" alt="The knight facing a giant in a sunlit courtyard"><br><sub>Sunlight and lens flare in the courtyard</sub></td>
 <td width="50%"><img src="screenshots/castle-gate.jpg" alt="The castle gate"><br><sub>The castle gate, with HD lighting</sub></td>
 </tr>
 <tr>
